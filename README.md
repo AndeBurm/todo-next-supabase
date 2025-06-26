@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./preview.png" alt="Обложка проекта" width="600"/>
+  <img src="./preview.PNG" alt="Обложка проекта" width="600"/>
 </p>
 
 # todo-next-supabase
